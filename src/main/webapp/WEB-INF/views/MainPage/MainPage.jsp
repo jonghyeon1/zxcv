@@ -7,11 +7,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-
-<h3>dsadsadadsad</h3>
 <body>
-김은영 수정 
-박문일 수정
-타이거스 소크라테스 소크라테스 워어어어
-깃 그만하고 싶다</body>
+<h3>fsadfsdfdsaf</h3>
+</body>
 </html>
